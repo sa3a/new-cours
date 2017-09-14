@@ -1,4 +1,5 @@
 Êþº¾   2 "  NewClass sjfhksfjhgur
+LLUki
 
 
  java/lang/Object <init> ()V Code
